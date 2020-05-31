@@ -1,4 +1,5 @@
 ---
+permalink: ".well-known/stellar.toml"
 layout: none
-permalink: .well-known/stellar.toml
 ---
+
