@@ -1,12 +1,13 @@
 ---
 title: TIME token
 date: 2020-05-31 16:52:00 Z
+time_asset_image: "/uploads/noun_Planet_1377350.svg"
 ---
 
-[noun_Planet_1377350.svg](/uploads/noun_Planet_1377350.svg)
+<img src="{{ time_asset_image }}" />
 
-Planet earth is 454 billion years old, each one of them is represented by a time token. 
+Planet earth is 454 billion years old, each one of them is represented by a time token.
 
-If time is money, now you can fill your wallet with it! 
+If time is money, now you can fill your wallet with it!
 
 Time tokens are freely traded on the stellar decentralized exchange.
