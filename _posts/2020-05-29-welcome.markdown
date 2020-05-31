@@ -1,9 +1,12 @@
 ---
+title: Welcome to unTokens!
+date: 2020-05-29 17:28:12 Z
+categories:
+- untokens
+- update
 layout: post
-title:  "Welcome to unTokens!"
-date:   2020-05-29 18:28:12 +0100
-categories: untokens update
 ---
+
 unTokens makes creating tokens on the Stellar network even easier. 
 
 You define the attributes of your token and we’ll issue that token directly to your Stellar wallet. 
