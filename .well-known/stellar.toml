@@ -6,9 +6,9 @@ ACCOUNTS=["GDBF76HEURTGVBN7HMGVY6XV34BBURP3J5XMHU5ZB4MDBQJMBAGD56AA", "GBL6DLARF
 
 [DOCUMENTATION]
 ORG_NAME="Untokens Project"
-ORG_URL="untokens.github.io"
+ORG_URL="https://untokens.github.io"
 ORG_LOGO="https://untokens.github.io/uploads/noun_cryptocurrency_2123647.svg"
-ORG_DESCRIPTION="Untokens Project is an issuer of 'unusual tokens' in the stellar network"
+ORG_DESCRIPTION="Untokens Project is an issuer of custom tokens in the stellar network"
 
 [[CURRENCIES]]
 code="TIME"
