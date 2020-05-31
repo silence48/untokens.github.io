@@ -10,4 +10,4 @@ Planet earth is 454 billion years old, each one of them is represented by a time
 
 If time is money, now you can fill your wallet with it!
 
-Time tokens are freely traded on the stellar decentralized exchange.
+Time tokens are freely traded on the stellar decentralized exchange:
