@@ -5,10 +5,10 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 ACCOUNTS=["GDBF76HEURTGVBN7HMGVY6XV34BBURP3J5XMHU5ZB4MDBQJMBAGD56AA", "GBL6DLARFDMYEHGUYRM6QDAF6ESSN54BHLR6PWLI34R4Z2A2JTPCWCAX", "GBRYAQL7IOOXVUPN43BC65ZDXQVPDBNHTPZN4CZSEB7YJGRARDPKRC2W"]
 
 [DOCUMENTATION]
-ORG_NAME="Untokens Project"
+ORG_NAME="unTokens Project"
 ORG_URL="https://untokens.github.io"
 ORG_LOGO="https://untokens.github.io/uploads/noun_cryptocurrency_2123647.svg"
-ORG_DESCRIPTION="Untokens Project is an issuer of custom tokens in the stellar network"
+ORG_DESCRIPTION="unTokens Project is an issuer of custom tokens in the stellar network"
 
 [[CURRENCIES]]
 code="TIME"
